@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/universal-editor-getting-tanika-site/:/",
+    "/content/universal-editor-getting-tanika-site/configuration:/.helix/config.json",
+    "/content/universal-editor-getting-tanika-site/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/universal-editor-getting-tanika-site/"
   ]
 }
